@@ -1,0 +1,44 @@
+.font-style1{
+    font-size:xx-large;
+
+}
+.font-style2{
+    font-size:x-large;
+    color:rgb(26,72,238);
+}
+.select-style{
+    width:25%;
+}
+
+main{
+    width:750px;
+    margin:auto;
+    padding: 2em 0em 2em 0em;
+}
+table{
+    width:70%;
+    border-collapse: collapse;
+
+}
+td, th{
+    padding: .25em;
+
+}
+#cart-header th{
+    border-bottom: 2px solid blue;
+}
+#cart_footer td{
+    text-align:right;
+    border-top:2px solid blue;
+
+}
+.right{
+    text-align: right;
+}
+.left{
+    text-align: left;
+}
+.button-container form,
+.button-container form div{
+    display: inline;
+}
